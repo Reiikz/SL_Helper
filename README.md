@@ -1,3 +1,5 @@
+#Repository moved to https://git.reiikz.net
+
 ### Second Life Helper blender addon
 
 ## Features
